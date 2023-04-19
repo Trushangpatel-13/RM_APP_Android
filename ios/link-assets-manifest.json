@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Courier-Regular.ttf",
+      "sha1": "058ff28e6a1010e7eb9109014e44c75ed2ec10cc"
+    },
+    {
+      "path": "assets/fonts/Courier_Bold.ttf",
+      "sha1": "1787caeab5b89292549e4ffb01160482b70b1c78"
+    }
+  ]
+}
